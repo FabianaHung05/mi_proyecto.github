@@ -1,2 +1,2 @@
-"Hola Mundo" 
-"Secci¢n actualizada desde master" 
+"Sección actualizada desde master" 
+"Sección de funcionalidad añadida desde nueva_funcionalidad" 
